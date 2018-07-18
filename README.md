@@ -1,6 +1,6 @@
 ## Hi there!
 
-This is the repository of my personal website. You can check him
+This is the repository of my personal website. You can check the page
 from [here](https://catarinaamachado.github.io). Hope you enjoy! :smile:
 
 You can check a repository version of this website in Laravel
