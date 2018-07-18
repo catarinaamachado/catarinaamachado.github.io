@@ -9,5 +9,5 @@ You can check a repository version of this website in Laravel
 
 ## Contributing
 
-The design of this website was made by [HTML5 UP](https://html5up.net/s).
+The design of this website was made by [HTML5 UP](https://html5up.net/).
 Many thanks!
