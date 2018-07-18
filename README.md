@@ -1,4 +1,4 @@
-## Hi!
+## Hi there!
 
 This is the repository of my personal website. You can check him
 from [here](https://catarinaamachado.github.io). Hope you enjoy! :smile:
