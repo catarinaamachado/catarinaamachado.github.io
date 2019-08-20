@@ -1,10 +1,9 @@
 ## Hi there!
 
-This is the repository of my personal website. You can check the page
-[here](https://catarinamachado.github.io). Hope you enjoy! :smile:
+This is the repository of my old personal website.
 
 You can check a repository version of this website in Laravel
-[here](https://github.com/catarinamachado/catarinamachado-laravel-version).
+[here](https://github.com/catarinamachado/old-catarinamachado-laravel-version).
 
 
 ## Contributing
